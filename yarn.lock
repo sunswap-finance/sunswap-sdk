@@ -2371,9 +2371,9 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@pancakeswap-libs/pancake-swap-core@git+https://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:x-oauth-basic@github.com/sunswap-finance/sunswap-core.git":
+"@pancakeswap-libs/pancake-swap-core@git+https://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:x-oauth-basic@github.com/sunswap-finance/sunswap-core.git":
   version "0.1.0"
-  resolved "git+https://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:x-oauth-basic@github.com/sunswap-finance/sunswap-core.git#c054369644d9cc3a3313d32a9d649322e2af0207"
+  resolved "git+https://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:x-oauth-basic@github.com/sunswap-finance/sunswap-core.git#f76df709a077044dae62af3be5fc298e2f780079"
   dependencies:
     "@truffle/hdwallet-provider" "^1.4.1"
     truffle "^5.1.41"
